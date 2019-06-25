@@ -34,6 +34,7 @@ Exemplo de entrada 2:
 Saída esperada para a entrada acima:
 Nao eh k-alternante 
 }
+
 program code;
 var
    num, k, copiak: integer;
