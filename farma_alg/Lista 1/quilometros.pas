@@ -6,6 +6,7 @@ Exemplo de entrada:
 Saída esperada para a entrada acima:
 6.5492523661815000E+00}
 
+
 program km2ml;
 var
     x, y: real;
