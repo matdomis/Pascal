@@ -15,7 +15,7 @@ Exemplo de entrada:
 Saída esperada para a entrada acima:
 -3.73 -0.27
 -1.00
-nao tem raizes reais}
+nao tem raizes reais }
 program code;
 var
 	a, b, c, count: integer;
