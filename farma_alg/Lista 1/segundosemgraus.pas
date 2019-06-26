@@ -32,4 +32,3 @@ begin
     end;
     writeln(grau, ' grau(s), ', min, ' minuto(s), ', sec2, ' segundo(s)');
 end.
-    
