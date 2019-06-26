@@ -1,8 +1,8 @@
 {=================================================================================}
 {                      ୧☉□☉୨         SELECTION         ୧☉□☉୨                    }
 {=================================================================================}
+https://codepumpkin.com/wp-content/uploads/2017/10/selectionSort.gif
 
-https://codepumpkin.com/wp-content/uploads/2017/10/bubble.gif
 
 procedure selection_sort (var V: array_inteiros);
 var
