@@ -9,6 +9,7 @@ Exemplo de entrada:
 Saída esperada para a entrada acima:
 8.3659999999999997E+001
 }
+
 program CparaF;
 var
     x, y: real;
