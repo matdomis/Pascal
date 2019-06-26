@@ -1,3 +1,15 @@
+{ 
+
+Faça um programa em Free Pascal que leia duas listas de valores inteiros positivos, cada um deles terminado em zero. O zero indica o término da entrada de dados e não deve ser processado. Seu programa deve imprimir as duas listas na ordem inversa da entrada. Considere que o usuário nunca digitará mais do que 100 números antes do zero para cada conjunto.
+
+Exemplo de entrada:
+1 2 3 4 5 6 0
+9 8 7 6 5 4 3 2 1 0
+
+Saída esperada:
+6 5 4 3 2 1
+1 2 3 4 5 6 7 8 9
+}
 program listainversa;
 type
     array_inteiros = array [1..100] of integer;
