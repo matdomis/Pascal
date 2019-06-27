@@ -1,3 +1,18 @@
+{ Fazer um programa em Free Pascal que leia um número inteiro positivo N que representa o número de linhas de um Triângulo de Pascal, sendo 0 <= N <= 20. Seu programa deve gerar e imprimir os valores de cada linha deste triângulo no monitor de vı́deo do computador. Veja uma exemplo de execução do programa:
+
+Exemplo de entrada:
+7
+
+Saída esperada para a entrada acima:
+1
+1 1
+1 2 1
+1 3 3 1
+1 4 6 4 1
+1 5 10 10 5 1
+1 6 15 20 15 6 1
+}
+
 program triangulopascal;
 
 type
@@ -40,13 +55,3 @@ begin
         writeln();
     end;
 end.
-        
-    
-
-
-
-
-
-
-
-
