@@ -8,7 +8,7 @@ procedure selection_sort (var V: array_inteiros);
 var
     tam, i, k, arm_valor, pos_troca: integer;
 begin
-    tam := tamarr(V);
+    tam := tamarr(V); // returns array length
     for i := 1 to tam-1 do
     begin
         arm_valor := V[i];
