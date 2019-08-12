@@ -1,2 +1,2 @@
 # Pascal
-Pascal - ALG1 (CI055)
+Pascal - ALG1 [CI055]
