@@ -13,7 +13,7 @@ Exemplo de entrada:
 0 0 0
 
 é isso ai!
-
+a
 Saída esperada para a entrada acima:
 -3.73 -0.27
 -1.00
